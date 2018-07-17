@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Sadmir Halilovic]
-#name: Sadmir Halilovic
+description: Findings of a curious developer
 permalink: /blog/:year/:month/:day/:title
