@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-name: Sadmir Halilovic
+title: [Sadmir Halilovic]
+#name: Sadmir Halilovic
 permalink: /blog/:year/:month/:day/:title
